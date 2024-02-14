@@ -89,7 +89,7 @@ class _HomePageState extends State<HomePage> {
                     icon: Icon(
                       _speechToText.isNotListening
                           ? Icons.mic_off
-                          :Icons.mic,
+                          :Icons.add,
 
                       color: Colors.red,
                     ),
